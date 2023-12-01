@@ -1,0 +1,116 @@
+Is Player1 a human (h) or a computer (c) ?
+Is Player2 a human (h) or a computer (c) ?
+Is Player3 a human (h) or a computer (c) ?
+Is Player4 a human (h) or a computer (c) ?
+A new round begins. It's Player3's turn to play.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades: 
+Your hand: 7S 2C 6C 4S 9C KD 10C AD 6H 9D 10D AC 8S
+Legal plays: 7S
+player3 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  7
+Your hand: 5C QD 3S JS 3D KS 3H 5D 10H QS 8D 7D 5H
+Legal plays: 7D
+player4 plays 7D.
+Cards on the table:
+Clubs:
+Diamonds:  7
+Hearts: 
+Spades:  7
+Your hand: 6S 5S JD 2S 9H KH QH JC 2D 4D 4H QC AS
+Legal plays: 6S
+player1 plays 6S.
+Cards on the table:
+Clubs:
+Diamonds:  7
+Hearts: 
+Spades:  6 7
+Your hand: 7H 3C AH 6D 8H 10S JH 9S KC 7C 4C 2H 8C
+Legal plays: 7H 6D 7C
+player2 plays 7H.
+Cards on the table:
+Clubs:
+Diamonds:  7
+Hearts:  7
+Spades:  6 7
+Your hand: 2C 6C 4S 9C KD 10C AD 6H 9D 10D AC 8S
+Legal plays: 6H 8S
+player3 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds:  7
+Hearts:  7
+Spades:  6 7 8
+Your hand: 5C QD 3S JS 3D KS 3H 5D 10H QS 8D 5H
+Legal plays: 8D
+player4 plays 8D.
+Cards on the table:
+Clubs:
+Diamonds:  7 8
+Hearts:  7
+Spades:  6 7 8
+Your hand: 5S JD 2S 9H KH QH JC 2D 4D 4H QC AS
+Legal plays: 5S
+player1 plays 5S.
+Cards on the table:
+Clubs:
+Diamonds:  7 8
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: 3C AH 6D 8H 10S JH 9S KC 7C 4C 2H 8C
+Legal plays: 6D 8H 9S 7C
+player2 plays 7C.
+Cards on the table:
+Clubs: 7
+Diamonds:  7 8
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: 2C 6C 4S 9C KD 10C AD 6H 9D 10D AC
+Legal plays: 6C 4S 6H 9D
+player3 plays 9D.
+Cards on the table:
+Clubs: 7
+Diamonds:  7 8 9
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: 5C QD 3S JS 3D KS 3H 5D 10H QS 5H
+Legal plays:
+player4 discards QD.
+Cards on the table:
+Clubs: 7
+Diamonds:  7 8 9
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: JD 2S 9H KH QH JC 2D 4D 4H QC AS
+Legal plays:
+player1 discards JD.
+Cards on the table:
+Clubs: 7
+Diamonds:  7 8 9
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: 3C AH 6D 8H 10S JH 9S KC 4C 2H 8C
+Legal plays: 6D 8H 9S 8C
+player2 plays 6D.
+Cards on the table:
+Clubs: 7
+Diamonds:  6 7 8 9
+Hearts:  7
+Spades:  5 6 7 8
+Your hand: 2C 6C 4S 9C KD 10C AD 6H 10D AC
+Legal plays: 6C 4S 6H 10D
+player3 plays 6H.
+Cards on the table:
+Clubs: 7
+Diamonds:  6 7 8 9
+Hearts:  6 7
+Spades:  5 6 7 8
+Your hand: 5C 3S JS 3D KS 3H 5D 10H QS 5H
+Legal plays: 5D 5H

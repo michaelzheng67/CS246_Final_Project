@@ -1,0 +1,19 @@
+Is Player1 a human (h) or a computer (c) ?
+Is Player2 a human (h) or a computer (c) ?
+Is Player3 a human (h) or a computer (c) ?
+Is Player4 a human (h) or a computer (c) ?
+A new round begins. It's Player1's turn to play.
+Player1 plays 7S.
+Player2 plays 6S.
+Player3 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  6 7 8
+Your hand: AC 3D JH JS 7C 9S 7D 2H 4C JD 10C 5S KC
+Legal plays: 7C 9S 7D 5S
+7S 9H 10H 5H 9D QS 4H QC QD JC KH 8D 4D 
+8C 6D 5C 6S AS 10S 3S 8H 6H 7H 9C 3C KS 
+5D 2S QH 3H AH 2C 4S 8S 10D KD 6C AD 2D 
+AC 3D JH JS 7C 9S 7D 2H 4C JD 10C 5S KC 

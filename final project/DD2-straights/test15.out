@@ -1,0 +1,321 @@
+Is Player1 a human (h) or a computer (c) ?
+Is Player2 a human (h) or a computer (c) ?
+Is Player3 a human (h) or a computer (c) ?
+Is Player4 a human (h) or a computer (c) ?
+A new round begins. It's Player2's turn to play.
+Player2 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  7
+Your hand: AD JH 6C 5H QH 3S 2D 10S JD QC 6D 6S 2H
+Legal plays: 6S
+player3 plays 6S.
+Player4 plays 5S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  5 6 7
+Your hand: KH 10H 7H 5D AS KS 7C 8H 9C 6H 2S QD 4S
+Legal plays: 7H 7C 4S
+player1 plays 4S.
+Player2 discards 3C.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  4 5 6 7
+Your hand: AD JH 6C 5H QH 3S 2D 10S JD QC 6D 2H
+Legal plays: 3S
+player3 plays 3S.
+Player4 plays 8S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  3 4 5 6 7 8
+Your hand: KH 10H 7H 5D AS KS 7C 8H 9C 6H 2S QD
+Legal plays: 7H 7C 2S
+player1 plays 7H.
+Player2 discards AH.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts:  7
+Spades:  3 4 5 6 7 8
+Your hand: AD JH 6C 5H QH 2D 10S JD QC 6D 2H
+Legal plays:
+player3 discards AD.
+Player4 plays 9S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts:  7
+Spades:  3 4 5 6 7 8 9
+Your hand: KH 10H 5D AS KS 7C 8H 9C 6H 2S QD
+Legal plays: 7C 8H 6H 2S
+player1 plays 7C.
+Player2 plays 8C.
+Cards on the table:
+Clubs: 7 8
+Diamonds: 
+Hearts:  7
+Spades:  3 4 5 6 7 8 9
+Your hand: JH 6C 5H QH 2D 10S JD QC 6D 2H
+Legal plays: 6C 10S
+player3 plays 6C.
+Player4 plays 7D.
+Cards on the table:
+Clubs: 6 7 8
+Diamonds:  7
+Hearts:  7
+Spades:  3 4 5 6 7 8 9
+Your hand: KH 10H 5D AS KS 8H 9C 6H 2S QD
+Legal plays: 8H 9C 6H 2S
+player1 plays 6H.
+Player2 plays 5C.
+Cards on the table:
+Clubs: 5 6 7 8
+Diamonds:  7
+Hearts:  6 7
+Spades:  3 4 5 6 7 8 9
+Your hand: JH 5H QH 2D 10S JD QC 6D 2H
+Legal plays: 5H 10S 6D
+Player3 ragequits. A computer will now take over.
+Player3 plays 5H.
+Player4 plays 4C.
+Cards on the table:
+Clubs: 4 5 6 7 8
+Diamonds:  7
+Hearts:  5 6 7
+Spades:  3 4 5 6 7 8 9
+Your hand: KH 10H 5D AS KS 8H 9C 2S QD
+Legal plays: 8H 9C 2S
+Player1 ragequits. A computer will now take over.
+Player1 plays 8H.
+Player2 discards KD.
+Player3 plays 10S.
+Player4 plays 9H.
+Player1 plays 10H.
+Player2 discards JC.
+Player3 plays JH.
+Player4 plays 8D.
+Player1 plays 9C.
+Player2 plays 9D.
+Player3 plays QH.
+Player4 plays 10C.
+Player1 plays KH.
+Player2 plays 10D.
+Player3 plays JD.
+Player4 plays 4H.
+Player1 plays 2S.
+Player2 plays 3H.
+Player3 plays 6D.
+Player4 plays JS.
+Player1 plays 5D.
+Player2 plays 4D.
+Player3 plays 2H.
+Player4 plays QS.
+Player1 plays AS.
+Player2 plays 3D.
+Player3 plays 2D.
+Player4 discards KC.
+Player1 plays KS.
+Player2 discards 2C.
+Player3 discards QC.
+Player4 discards AC.
+Player1 plays QD.
+Player1's discards: 
+Player1's score: 0 + 0 = 0
+Player2's discards: 3C AH KD JC 2C 
+Player2's score: 0 + 30 = 30
+Player3's discards: AD QC 
+Player3's score: 0 + 13 = 13
+Player4's discards: KC AC 
+Player4's score: 0 + 14 = 14
+A new round begins. It's Player2's turn to play.
+Player2 plays 7H.
+Player3 discards 3C.
+Player4 plays 6H.
+Player1 plays 7C.
+Player2 plays 7S.
+Player3 plays 6S.
+Player4 plays 8C.
+Player1 plays 9C.
+Player2 plays 8H.
+Player3 plays 8S.
+Player4 plays 10C.
+Player1 plays 9H.
+Player2 plays JC.
+Player3 discards 6D.
+Player4 plays 5H.
+Player1 plays QC.
+Player2 plays 10H.
+Player3 plays KC.
+Player4 plays 7D.
+Player1 plays 5S.
+Player2 plays 6C.
+Player3 plays 4H.
+Player4 plays 4S.
+Player1 plays 3S.
+Player2 plays 2S.
+Player3 plays 3H.
+Player4 plays 8D.
+Player1 plays 2H.
+Player2 plays AS.
+Player3 plays AH.
+Player4 plays 5C.
+Player1 plays 9D.
+Player2 plays 9S.
+Player3 plays 10D.
+Player4 plays JD.
+Player1 plays 10S.
+Player2 discards AD.
+Player3 plays QD.
+Player4 plays JS.
+Player1 plays 4C.
+Player2 plays KD.
+Player3 plays JH.
+Player4 plays QS.
+Player1 discards 2D.
+Player2 discards 4D.
+Player3 plays KS.
+Player4 discards 5D.
+Player1 discards AC.
+Player2 discards 2C.
+Player3 plays QH.
+Player4 plays KH.
+Player1 discards 3D.
+Player1's discards: 2D AC 3D 
+Player1's score: 0 + 6 = 6
+Player2's discards: AD 4D 2C 
+Player2's score: 30 + 7 = 37
+Player3's discards: 3C 6D 
+Player3's score: 13 + 9 = 22
+Player4's discards: 5D 
+Player4's score: 14 + 5 = 19
+A new round begins. It's Player2's turn to play.
+Player2 plays 7S.
+Player3 plays 7H.
+Player4 plays 6H.
+Player1 plays 7C.
+Player2 discards 2D.
+Player3 plays 6S.
+Player4 plays 5S.
+Player1 discards JH.
+Player2 discards 3C.
+Player3 plays 8S.
+Player4 plays 8C.
+Player1 plays 9C.
+Player2 plays 9S.
+Player3 plays 4S.
+Player4 plays 3S.
+Player1 plays 10C.
+Player2 plays JC.
+Player3 plays 5H.
+Player4 plays 7D.
+Player1 plays 4H.
+Player2 plays 10S.
+Player3 plays 6C.
+Player4 plays 3H.
+Player1 discards QD.
+Player2 plays 2S.
+Player3 plays 6D.
+Player4 plays JS.
+Player1 plays 5D.
+Player2 plays QC.
+Player3 plays QS.
+Player4 plays 8H.
+Player1 plays 4D.
+Player2 plays 9H.
+Player3 plays 3D.
+Player4 plays AS.
+Player1 plays KC.
+Player2 plays 10H.
+Player3 discards 10D.
+Player4 plays 5C.
+Player1 discards AH.
+Player2 plays 4C.
+Player3 discards AC.
+Player4 plays 2H.
+Player1 discards JD.
+Player2 plays KS.
+Player3 discards AD.
+Player4 discards 9D.
+Player1 discards KH.
+Player2 plays 8D.
+Player3 discards 2C.
+Player4 discards QH.
+Player1 discards KD.
+Player1's discards: JH QD AH JD KH KD 
+Player1's score: 6 + 61 = 67
+Player2's discards: 2D 3C 
+Player2's score: 37 + 5 = 42
+Player3's discards: 10D AC AD 2C 
+Player3's score: 22 + 14 = 36
+Player4's discards: 9D QH 
+Player4's score: 19 + 21 = 40
+A new round begins. It's Player1's turn to play.
+Player1 plays 7C.
+Player2 plays 7H.
+Player3 discards 2D.
+Player4 plays 6C.
+Player1 plays 7S.
+Player2 plays 8C.
+Player3 plays 8S.
+Player4 plays 7D.
+Player1 plays 6D.
+Player2 plays 8D.
+Player3 discards 2C.
+Player4 plays 8H.
+Player1 plays 9C.
+Player2 plays 5D.
+Player3 discards KH.
+Player4 plays 4D.
+Player1 plays 3D.
+Player2 plays 9S.
+Player3 discards QS.
+Player4 plays 10C.
+Player1 plays JC.
+Player2 plays QC.
+Player3 discards 5S.
+Player4 plays KC.
+Player1 plays 9D.
+Player2 discards AH.
+Player3 plays 10D.
+Player4 plays 5C.
+Player1 plays 6H.
+Player2 plays JD.
+Player3 discards 3C.
+Player4 plays 10S.
+Player1 plays 5H.
+Player2 plays 4H.
+Player3 plays JS.
+Player4 plays 6S.
+Player1 plays 3H.
+Player2 plays 4C.
+Player3 discards QH.
+Player4 plays 9H.
+Player1 plays 2H.
+Player2 plays QD.
+Player3 plays KD.
+Player4 discards 3S.
+Player1 discards AD.
+Player2 discards 2S.
+Player3 plays 10H.
+Player4 plays JH.
+Player1 discards 4S.
+Player2 discards AC.
+Player3 discards KS.
+Player4 discards AS.
+Player1's discards: AD 4S 
+Player1's score: 67 + 5 = 72
+Player2's discards: AH 2S AC 
+Player2's score: 42 + 4 = 46
+Player3's discards: 2D 2C KH QS 5S 3C QH KS 
+Player3's score: 36 + 62 = 98
+Player4's discards: 3S AS 
+Player4's score: 40 + 4 = 44
+Player4 wins!

@@ -1,0 +1,79 @@
+Is Player1 a human (h) or a computer (c) ?
+Is Player2 a human (h) or a computer (c) ?
+Is Player3 a human (h) or a computer (c) ?
+Is Player4 a human (h) or a computer (c) ?
+A new round begins. It's Player2's turn to play.
+Player2 plays 7S.
+Cards on the table:
+Clubs:
+Diamonds: 
+Hearts: 
+Spades:  7
+Your hand: 4C 5C 5S KD 8S 9S QS JH JC QH 5D 6D 10D
+Legal plays: 8S
+player3 plays 8S.
+Player4 plays 6S.
+Player1 plays 7C.
+Player2 discards KH.
+Cards on the table:
+Clubs: 7
+Diamonds: 
+Hearts: 
+Spades:  6 7 8
+Your hand: 4C 5C 5S KD 9S QS JH JC QH 5D 6D 10D
+Legal plays: 5S 9S
+player3 plays 5S.
+Player4 plays 7H.
+Player1 plays 6C.
+Player2 plays 4S.
+Cards on the table:
+Clubs: 6 7
+Diamonds: 
+Hearts:  7
+Spades:  4 5 6 7 8
+Your hand: 4C 5C KD 9S QS JH JC QH 5D 6D 10D
+Legal plays: 5C 9S
+player3 plays 5C.
+Player4 plays 6H.
+Player1 discards AD.
+Player2 plays 5H.
+Cards on the table:
+Clubs: 5 6 7
+Diamonds: 
+Hearts:  5 6 7
+Spades:  4 5 6 7 8
+Your hand: 4C KD 9S QS JH JC QH 5D 6D 10D
+Legal plays: 4C 9S
+player3 plays 9S.
+Player4 plays 7D.
+Player1 plays 10S.
+Player2 plays JS.
+Cards on the table:
+Clubs: 5 6 7
+Diamonds:  7
+Hearts:  5 6 7
+Spades:  4 5 6 7 8 9 10 11
+Your hand: 4C KD QS JH JC QH 5D 6D 10D
+Legal plays: 4C QS 6D
+player3 plays QS.
+Player4 plays 8C.
+Player1 discards AS.
+Player2 plays KS.
+Cards on the table:
+Clubs: 5 6 7 8
+Diamonds:  7
+Hearts:  5 6 7
+Spades:  4 5 6 7 8 9 10 11 12 13
+Your hand: 4C KD JH JC QH 5D 6D 10D
+Legal plays: 4C 6D
+player3 plays 4C.
+Player4 plays 9C.
+Player1 plays 10C.
+Player2 plays 4H.
+Cards on the table:
+Clubs: 4 5 6 7 8 9 10
+Diamonds:  7
+Hearts:  4 5 6 7
+Spades:  4 5 6 7 8 9 10 11 12 13
+Your hand: KD JH JC QH 5D 6D 10D
+Legal plays: JC 6D
